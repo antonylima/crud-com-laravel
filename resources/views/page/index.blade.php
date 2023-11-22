@@ -12,7 +12,7 @@
   <tr>
     <th>ID</th>
     <th>NOME</th>
-    <th>ANO</th>
+    <th>NASC</th>
   </tr>
 @foreach($resultado as $value)
 <tr>
