@@ -6,7 +6,7 @@
 
 @section('content')
 
-<h1>TABELA</h1>
+<h1>ALUNOS</h1>
 <a class="" href="{{route('page-create')}}">NOVO ALUNO</a>
 <table>
   <tr>
